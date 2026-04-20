@@ -1,0 +1,11 @@
+{
+  "name": "INTIS",
+  "website": "",
+  "description": "INTIS token on Polygon network",
+  "explorer": "https://polygonscan.com/token/0x2d1E2Cd9533014Aa17B2BAFe51D4bEB376d2508b",
+  "type": "ERC20",
+  "symbol": "INTIS",
+  "decimals": 18,
+  "status": "active",
+  "id": "INTIS"
+}
